@@ -1,0 +1,151 @@
+order_id,customer_id,product_id,seller_id,quantity,order_date,status,customer_name,city_x,signup_date,phone,product_name,category,price,seller_name,city_y,amount,payment_type,payment_status
+1,17,4,7,4,2025-12-13,Cancelled,Aditya Menon,Hyderabad,2025-04-18,+918159417075,USB-C Charger,Electronics,899,GlowMart,Delhi,3596,Credit Card,Refunded
+2,79,10,5,4,2025-10-08,Delivered,Ishaan Menon,Delhi,2025-03-28,+918836901321,Backpack,Fashion,1299,FitZone,Hyderabad,5196,Debit Card,Paid
+3,37,4,7,3,2025-08-27,Shipped,Varun Menon,Pune,2024-05-11,+919361388464,USB-C Charger,Electronics,899,GlowMart,Delhi,2697,Cash on Delivery,Paid
+4,87,4,9,4,2025-03-28,Cancelled,Aditya Khan,Kozhikode,2024-06-12,+918643004186,USB-C Charger,Electronics,899,DailyNeeds,Thrissur,3596,UPI,Refunded
+5,37,9,10,3,2025-02-17,Delivered,Varun Menon,Pune,2024-05-11,+919361388464,Water Bottle,Home,599,PrimeStore,Coimbatore,1797,Debit Card,Paid
+6,29,13,4,2,2025-01-13,Delivered,Varun Khan,Mumbai,2025-10-18,+917479112937,SQL Fundamentals,Books,699,BookSphere,Mumbai,1398,Credit Card,Paid
+7,61,10,2,4,2025-08-01,Cancelled,Maya Iyer,Kochi,2024-06-10,+919181106786,Backpack,Fashion,1299,UrbanCart,Bengaluru,5196,Net Banking,Refunded
+8,25,12,7,4,2025-07-24,Delivered,Riya Sharma,Malappuram,2024-04-22,+919694860228,Python Programming,Books,799,GlowMart,Delhi,3196,Credit Card,Paid
+9,84,12,1,1,2025-08-06,Delivered,Aditya Nair,Delhi,2024-12-28,+918745377599,Python Programming,Books,799,TechWorld,Kochi,799,Credit Card,Paid
+10,90,9,8,1,2025-10-13,Delivered,Meera Das,Chennai,2024-12-02,+917298159856,Water Bottle,Home,599,SmartBuy,Kozhikode,599,UPI,Paid
+11,59,3,8,3,2025-08-15,Processing,Meera Sharma,Delhi,2025-08-16,+917261810763,Smart Watch,Electronics,3299,SmartBuy,Kozhikode,9897,Net Banking,Paid
+12,55,14,9,4,2025-03-23,Cancelled,Sneha Reddy,Bengaluru,2025-05-07,+918722454917,Face Wash,Beauty,449,DailyNeeds,Thrissur,1796,Cash on Delivery,Refunded
+13,58,5,4,3,2025-09-24,Shipped,Varun Reddy,Bengaluru,2024-06-07,+918274350418,Laptop Stand,Electronics,1499,BookSphere,Mumbai,4497,Credit Card,Paid
+14,36,8,2,3,2025-05-01,Delivered,Priya Nair,Pune,2024-03-28,+917297265480,Yoga Mat,Sports,999,UrbanCart,Bengaluru,2997,Debit Card,Paid
+15,41,15,9,1,2025-03-12,Delivered,Arjun Patel,Kozhikode,2024-08-18,+918452066459,Moisturizer,Beauty,549,DailyNeeds,Thrissur,549,Credit Card,Paid
+16,50,12,3,2,2025-02-02,Shipped,Vivek Thomas,Bengaluru,2024-04-21,+917822873088,Python Programming,Books,799,HomeNest,Chennai,1598,Cash on Delivery,Paid
+17,43,9,8,4,2025-02-01,Delivered,Aditya Sharma,Kochi,2024-03-13,+917983297492,Water Bottle,Home,599,SmartBuy,Kozhikode,2396,Cash on Delivery,Paid
+18,50,15,10,1,2025-10-22,Shipped,Vivek Thomas,Bengaluru,2024-04-21,+917822873088,Moisturizer,Beauty,549,PrimeStore,Coimbatore,549,Cash on Delivery,Paid
+19,1,6,5,4,2025-08-03,Processing,Arjun Sharma,Bengaluru,2024-10-08,+917958682846,Cotton T-Shirt,Fashion,699,FitZone,Hyderabad,2796,Net Banking,Paid
+20,78,15,4,4,2025-04-23,Delivered,Diya Sharma,Malappuram,2024-12-07,+919736381108,Moisturizer,Beauty,549,BookSphere,Mumbai,2196,Cash on Delivery,Paid
+21,63,1,7,3,2025-12-09,Cancelled,Aditya Das,Thrissur,2024-05-02,+918057486868,Wireless Headphones,Electronics,2499,GlowMart,Delhi,7497,Cash on Delivery,Refunded
+22,93,3,8,2,2025-11-15,Processing,Rahul Joseph,Kochi,2024-09-28,+917465585404,Smart Watch,Electronics,3299,SmartBuy,Kozhikode,6598,UPI,Paid
+23,51,10,10,1,2025-02-12,Cancelled,Meera Iyer,Malappuram,2025-04-04,+918811967841,Backpack,Fashion,1299,PrimeStore,Coimbatore,1299,Cash on Delivery,Refunded
+24,18,14,8,2,2025-01-26,Delivered,Varun Patel,Mumbai,2025-12-02,+917240251661,Face Wash,Beauty,449,SmartBuy,Kozhikode,898,Cash on Delivery,Paid
+25,42,4,8,3,2025-06-22,Shipped,Aarav Joseph,Bengaluru,2025-07-21,+919527331058,USB-C Charger,Electronics,899,SmartBuy,Kozhikode,2697,Debit Card,Paid
+26,97,14,7,3,2025-02-11,Shipped,Maya Iyer,Bengaluru,2025-12-04,+918564319318,Face Wash,Beauty,449,GlowMart,Delhi,1347,UPI,Paid
+27,96,9,1,3,2025-04-25,Cancelled,Meera Khan,Hyderabad,2024-02-15,+917007263971,Water Bottle,Home,599,TechWorld,Kochi,1797,UPI,Refunded
+28,100,11,1,1,2025-05-07,Delivered,Sneha Thomas,Chennai,2025-02-16,+919381183483,Desk Lamp,Home,1099,TechWorld,Kochi,1099,UPI,Paid
+29,80,3,4,2,2025-08-31,Cancelled,Varun Sharma,Kozhikode,2024-04-24,+919967906665,Smart Watch,Electronics,3299,BookSphere,Mumbai,6598,UPI,Refunded
+30,73,4,8,3,2025-07-08,Delivered,Varun Khan,Kozhikode,2025-11-10,+917576775951,USB-C Charger,Electronics,899,SmartBuy,Kozhikode,2697,Net Banking,Paid
+31,78,12,2,2,2025-06-09,Delivered,Diya Sharma,Malappuram,2024-12-07,+919736381108,Python Programming,Books,799,UrbanCart,Bengaluru,1598,Net Banking,Paid
+32,4,15,5,4,2025-07-23,Cancelled,Meera Patel,Thrissur,2025-06-01,+917113971123,Moisturizer,Beauty,549,FitZone,Hyderabad,2196,Credit Card,Refunded
+33,10,10,4,1,2025-12-23,Delivered,Diya Reddy,Kozhikode,2025-07-03,+918625792787,Backpack,Fashion,1299,BookSphere,Mumbai,1299,Net Banking,Paid
+34,16,13,10,1,2025-06-27,Processing,Riya Joseph,Malappuram,2025-10-12,+919294113287,SQL Fundamentals,Books,699,PrimeStore,Coimbatore,699,Cash on Delivery,Paid
+35,85,6,2,3,2025-01-07,Shipped,Sanjay Menon,Malappuram,2024-08-30,+917760434128,Cotton T-Shirt,Fashion,699,UrbanCart,Bengaluru,2097,Cash on Delivery,Paid
+36,14,7,6,4,2025-12-29,Delivered,Vivek Khan,Mumbai,2025-04-09,+917698594025,Running Shoes,Sports,2299,StyleHub,Pune,9196,Cash on Delivery,Paid
+37,23,12,9,3,2025-11-12,Processing,Ishaan Joseph,Thrissur,2025-03-14,+918715412119,Python Programming,Books,799,DailyNeeds,Thrissur,2397,Cash on Delivery,Paid
+38,60,7,10,3,2025-06-15,Delivered,Kiran Sharma,Thrissur,2024-02-21,+919047791082,Running Shoes,Sports,2299,PrimeStore,Coimbatore,6897,UPI,Paid
+39,36,15,8,2,2025-08-26,Processing,Priya Nair,Pune,2024-03-28,+917297265480,Moisturizer,Beauty,549,SmartBuy,Kozhikode,1098,Net Banking,Paid
+40,86,7,6,1,2025-09-11,Delivered,Sneha Sharma,Mumbai,2024-07-02,+918768294570,Running Shoes,Sports,2299,StyleHub,Pune,2299,Credit Card,Paid
+41,63,4,6,3,2025-06-24,Delivered,Aditya Das,Thrissur,2024-05-02,+918057486868,USB-C Charger,Electronics,899,StyleHub,Pune,2697,Net Banking,Paid
+42,90,15,5,1,2025-09-22,Delivered,Meera Das,Chennai,2024-12-02,+917298159856,Moisturizer,Beauty,549,FitZone,Hyderabad,549,UPI,Paid
+43,31,12,7,4,2025-10-12,Delivered,Ishaan Iyer,Delhi,2024-07-01,+917457031004,Python Programming,Books,799,GlowMart,Delhi,3196,Cash on Delivery,Paid
+44,83,12,8,4,2025-01-09,Delivered,Nisha Thomas,Mumbai,2024-02-10,+917902271852,Python Programming,Books,799,SmartBuy,Kozhikode,3196,Debit Card,Paid
+45,29,7,4,3,2025-12-06,Processing,Varun Khan,Mumbai,2025-10-18,+917479112937,Running Shoes,Sports,2299,BookSphere,Mumbai,6897,Debit Card,Paid
+46,61,9,9,3,2025-08-06,Cancelled,Maya Iyer,Kochi,2024-06-10,+919181106786,Water Bottle,Home,599,DailyNeeds,Thrissur,1797,Net Banking,Refunded
+47,43,6,8,3,2025-06-06,Delivered,Aditya Sharma,Kochi,2024-03-13,+917983297492,Cotton T-Shirt,Fashion,699,SmartBuy,Kozhikode,2097,Credit Card,Paid
+48,16,12,4,3,2025-03-03,Cancelled,Riya Joseph,Malappuram,2025-10-12,+919294113287,Python Programming,Books,799,BookSphere,Mumbai,2397,Net Banking,Refunded
+49,98,12,3,2,2025-04-21,Cancelled,Sneha Nair,Mumbai,2025-11-11,+919676432103,Python Programming,Books,799,HomeNest,Chennai,1598,Cash on Delivery,Refunded
+50,36,12,10,3,2025-02-21,Delivered,Priya Nair,Pune,2024-03-28,+917297265480,Python Programming,Books,799,PrimeStore,Coimbatore,2397,Debit Card,Paid
+51,30,6,3,3,2025-01-08,Cancelled,Nisha Das,Pune,2024-06-10,+917013938521,Cotton T-Shirt,Fashion,699,HomeNest,Chennai,2097,Net Banking,Refunded
+52,17,5,1,1,2025-10-11,Delivered,Aditya Menon,Hyderabad,2025-04-18,+918159417075,Laptop Stand,Electronics,1499,TechWorld,Kochi,1499,Credit Card,Paid
+53,82,14,8,1,2025-01-07,Processing,Varun Menon,Malappuram,2025-03-16,+917179653598,Face Wash,Beauty,449,SmartBuy,Kozhikode,449,Debit Card,Paid
+54,61,8,8,3,2025-04-05,Delivered,Maya Iyer,Kochi,2024-06-10,+919181106786,Yoga Mat,Sports,999,SmartBuy,Kozhikode,2997,Debit Card,Paid
+55,62,2,2,4,2025-09-09,Delivered,Riya Menon,Thrissur,2024-03-11,+917291889680,Bluetooth Speaker,Electronics,1799,UrbanCart,Bengaluru,7196,Net Banking,Paid
+56,81,11,1,2,2025-03-18,Processing,Ananya Iyer,Mumbai,2024-02-06,+919501859536,Desk Lamp,Home,1099,TechWorld,Kochi,2198,Debit Card,Paid
+57,11,4,2,4,2025-11-07,Processing,Riya Iyer,Thrissur,2024-10-27,+918553210608,USB-C Charger,Electronics,899,UrbanCart,Bengaluru,3596,Net Banking,Paid
+58,29,13,9,4,2025-08-19,Shipped,Varun Khan,Mumbai,2025-10-18,+917479112937,SQL Fundamentals,Books,699,DailyNeeds,Thrissur,2796,Debit Card,Paid
+59,76,7,5,1,2025-11-09,Cancelled,Meera Khan,Pune,2025-06-01,+918078557553,Running Shoes,Sports,2299,FitZone,Hyderabad,2299,UPI,Refunded
+60,98,4,4,3,2025-12-05,Delivered,Sneha Nair,Mumbai,2025-11-11,+919676432103,USB-C Charger,Electronics,899,BookSphere,Mumbai,2697,Credit Card,Paid
+61,31,3,9,1,2025-03-22,Delivered,Ishaan Iyer,Delhi,2024-07-01,+917457031004,Smart Watch,Electronics,3299,DailyNeeds,Thrissur,3299,Cash on Delivery,Paid
+62,58,12,10,4,2025-05-30,Delivered,Varun Reddy,Bengaluru,2024-06-07,+918274350418,Python Programming,Books,799,PrimeStore,Coimbatore,3196,Credit Card,Paid
+63,37,12,5,4,2025-02-06,Cancelled,Varun Menon,Pune,2024-05-11,+919361388464,Python Programming,Books,799,FitZone,Hyderabad,3196,Credit Card,Refunded
+64,34,13,10,2,2025-08-06,Delivered,Sanjay Thomas,Kochi,2025-05-15,+917480468219,SQL Fundamentals,Books,699,PrimeStore,Coimbatore,1398,Net Banking,Paid
+65,29,11,3,3,2025-03-14,Delivered,Varun Khan,Mumbai,2025-10-18,+917479112937,Desk Lamp,Home,1099,HomeNest,Chennai,3297,UPI,Paid
+66,22,13,5,3,2025-08-13,Delivered,Ishaan Menon,Delhi,2024-09-09,+919314889832,SQL Fundamentals,Books,699,FitZone,Hyderabad,2097,Cash on Delivery,Paid
+67,89,5,7,3,2025-09-14,Processing,Neha Khan,Bengaluru,2024-08-21,+917101637979,Laptop Stand,Electronics,1499,GlowMart,Delhi,4497,Cash on Delivery,Paid
+68,57,2,10,1,2025-08-10,Cancelled,Ishaan Reddy,Hyderabad,2024-10-19,+919991837720,Bluetooth Speaker,Electronics,1799,PrimeStore,Coimbatore,1799,Debit Card,Refunded
+69,78,5,1,1,2025-04-28,Cancelled,Diya Sharma,Malappuram,2024-12-07,+919736381108,Laptop Stand,Electronics,1499,TechWorld,Kochi,1499,Net Banking,Refunded
+70,76,1,5,1,2025-03-31,Shipped,Meera Khan,Pune,2025-06-01,+918078557553,Wireless Headphones,Electronics,2499,FitZone,Hyderabad,2499,Net Banking,Paid
+71,84,8,5,2,2025-10-27,Shipped,Aditya Nair,Delhi,2024-12-28,+918745377599,Yoga Mat,Sports,999,FitZone,Hyderabad,1998,Cash on Delivery,Paid
+72,12,8,6,4,2025-06-20,Delivered,Priya Patel,Kozhikode,2025-12-22,+917196814233,Yoga Mat,Sports,999,StyleHub,Pune,3996,UPI,Paid
+73,21,6,7,4,2025-05-28,Cancelled,Asha Das,Pune,2025-10-20,+917613628803,Cotton T-Shirt,Fashion,699,GlowMart,Delhi,2796,Cash on Delivery,Refunded
+74,98,9,1,4,2025-02-15,Delivered,Sneha Nair,Mumbai,2025-11-11,+919676432103,Water Bottle,Home,599,TechWorld,Kochi,2396,Debit Card,Paid
+75,42,2,7,1,2025-12-03,Processing,Aarav Joseph,Bengaluru,2025-07-21,+919527331058,Bluetooth Speaker,Electronics,1799,GlowMart,Delhi,1799,Cash on Delivery,Paid
+76,53,1,4,3,2025-11-15,Shipped,Rohan Iyer,Kochi,2024-04-10,+919800940984,Wireless Headphones,Electronics,2499,BookSphere,Mumbai,7497,Cash on Delivery,Paid
+77,98,1,4,3,2025-10-09,Delivered,Sneha Nair,Mumbai,2025-11-11,+919676432103,Wireless Headphones,Electronics,2499,BookSphere,Mumbai,7497,Debit Card,Paid
+78,57,15,8,1,2025-01-15,Cancelled,Ishaan Reddy,Hyderabad,2024-10-19,+919991837720,Moisturizer,Beauty,549,SmartBuy,Kozhikode,549,Net Banking,Refunded
+79,31,12,3,3,2025-10-10,Delivered,Ishaan Iyer,Delhi,2024-07-01,+917457031004,Python Programming,Books,799,HomeNest,Chennai,2397,Net Banking,Paid
+80,53,2,4,1,2025-08-25,Delivered,Rohan Iyer,Kochi,2024-04-10,+919800940984,Bluetooth Speaker,Electronics,1799,BookSphere,Mumbai,1799,Credit Card,Paid
+81,64,15,5,3,2025-08-01,Shipped,Priya Joseph,Thrissur,2024-02-10,+917352116052,Moisturizer,Beauty,549,FitZone,Hyderabad,1647,Cash on Delivery,Paid
+82,32,8,9,2,2025-07-16,Delivered,Nisha Iyer,Bengaluru,2025-09-15,+917656439677,Yoga Mat,Sports,999,DailyNeeds,Thrissur,1998,Net Banking,Paid
+83,66,12,3,1,2025-05-22,Shipped,Ishaan Patel,Mumbai,2025-11-16,+918025148381,Python Programming,Books,799,HomeNest,Chennai,799,Debit Card,Paid
+84,65,5,1,3,2025-06-02,Processing,Sneha Joseph,Delhi,2025-08-01,+918358798143,Laptop Stand,Electronics,1499,TechWorld,Kochi,4497,Net Banking,Paid
+85,85,8,3,4,2025-10-03,Shipped,Sanjay Menon,Malappuram,2024-08-30,+917760434128,Yoga Mat,Sports,999,HomeNest,Chennai,3996,Debit Card,Paid
+86,43,9,9,4,2025-08-22,Delivered,Aditya Sharma,Kochi,2024-03-13,+917983297492,Water Bottle,Home,599,DailyNeeds,Thrissur,2396,Credit Card,Paid
+87,90,4,10,4,2025-04-30,Shipped,Meera Das,Chennai,2024-12-02,+917298159856,USB-C Charger,Electronics,899,PrimeStore,Coimbatore,3596,UPI,Paid
+88,41,12,8,4,2025-07-17,Cancelled,Arjun Patel,Kozhikode,2024-08-18,+918452066459,Python Programming,Books,799,SmartBuy,Kozhikode,3196,Credit Card,Refunded
+89,64,1,3,3,2025-02-21,Shipped,Priya Joseph,Thrissur,2024-02-10,+917352116052,Wireless Headphones,Electronics,2499,HomeNest,Chennai,7497,UPI,Paid
+90,68,15,8,1,2025-03-15,Shipped,Kiran Nair,Pune,2024-01-10,+919667858669,Moisturizer,Beauty,549,SmartBuy,Kozhikode,549,Credit Card,Paid
+91,10,8,5,3,2025-11-16,Cancelled,Diya Reddy,Kozhikode,2025-07-03,+918625792787,Yoga Mat,Sports,999,FitZone,Hyderabad,2997,Cash on Delivery,Refunded
+92,84,2,6,4,2025-06-12,Cancelled,Aditya Nair,Delhi,2024-12-28,+918745377599,Bluetooth Speaker,Electronics,1799,StyleHub,Pune,7196,Cash on Delivery,Refunded
+93,70,1,10,1,2025-05-01,Cancelled,Maya Khan,Mumbai,2024-05-15,+917295456419,Wireless Headphones,Electronics,2499,PrimeStore,Coimbatore,2499,Debit Card,Refunded
+94,30,12,2,4,2025-02-20,Cancelled,Nisha Das,Pune,2024-06-10,+917013938521,Python Programming,Books,799,UrbanCart,Bengaluru,3196,UPI,Refunded
+95,57,3,5,1,2025-01-24,Delivered,Ishaan Reddy,Hyderabad,2024-10-19,+919991837720,Smart Watch,Electronics,3299,FitZone,Hyderabad,3299,UPI,Paid
+96,38,6,6,4,2025-03-16,Delivered,Rahul Khan,Thrissur,2025-06-24,+918817363615,Cotton T-Shirt,Fashion,699,StyleHub,Pune,2796,Net Banking,Paid
+97,53,10,3,2,2025-03-31,Delivered,Rohan Iyer,Kochi,2024-04-10,+919800940984,Backpack,Fashion,1299,HomeNest,Chennai,2598,Net Banking,Paid
+98,49,10,4,4,2025-10-26,Delivered,Rohan Sharma,Kozhikode,2025-11-20,+917260329455,Backpack,Fashion,1299,BookSphere,Mumbai,5196,Credit Card,Paid
+99,60,11,5,4,2025-05-11,Cancelled,Kiran Sharma,Thrissur,2024-02-21,+919047791082,Desk Lamp,Home,1099,FitZone,Hyderabad,4396,UPI,Refunded
+100,60,15,5,2,2025-02-07,Shipped,Kiran Sharma,Thrissur,2024-02-21,+919047791082,Moisturizer,Beauty,549,FitZone,Hyderabad,1098,Debit Card,Paid
+101,76,5,7,3,2025-08-22,Delivered,Meera Khan,Pune,2025-06-01,+918078557553,Laptop Stand,Electronics,1499,GlowMart,Delhi,4497,Credit Card,Paid
+102,50,14,8,1,2025-05-02,Shipped,Vivek Thomas,Bengaluru,2024-04-21,+917822873088,Face Wash,Beauty,449,SmartBuy,Kozhikode,449,Net Banking,Paid
+103,46,10,5,3,2025-01-12,Cancelled,Varun Menon,Thrissur,2025-08-07,+919030106617,Backpack,Fashion,1299,FitZone,Hyderabad,3897,Cash on Delivery,Refunded
+104,36,1,10,1,2025-11-07,Cancelled,Priya Nair,Pune,2024-03-28,+917297265480,Wireless Headphones,Electronics,2499,PrimeStore,Coimbatore,2499,Cash on Delivery,Refunded
+105,37,13,4,3,2025-04-23,Cancelled,Varun Menon,Pune,2024-05-11,+919361388464,SQL Fundamentals,Books,699,BookSphere,Mumbai,2097,Credit Card,Refunded
+106,80,5,3,1,2025-11-18,Cancelled,Varun Sharma,Kozhikode,2024-04-24,+919967906665,Laptop Stand,Electronics,1499,HomeNest,Chennai,1499,UPI,Refunded
+107,40,13,8,1,2025-10-24,Delivered,Vivek Thomas,Delhi,2025-03-24,+918939118223,SQL Fundamentals,Books,699,SmartBuy,Kozhikode,699,Credit Card,Paid
+108,12,15,5,3,2025-08-01,Delivered,Priya Patel,Kozhikode,2025-12-22,+917196814233,Moisturizer,Beauty,549,FitZone,Hyderabad,1647,Credit Card,Paid
+109,17,13,9,3,2025-09-29,Processing,Aditya Menon,Hyderabad,2025-04-18,+918159417075,SQL Fundamentals,Books,699,DailyNeeds,Thrissur,2097,Debit Card,Paid
+110,22,5,8,3,2025-06-23,Delivered,Ishaan Menon,Delhi,2024-09-09,+919314889832,Laptop Stand,Electronics,1499,SmartBuy,Kozhikode,4497,Cash on Delivery,Paid
+111,10,3,4,4,2025-10-13,Delivered,Diya Reddy,Kozhikode,2025-07-03,+918625792787,Smart Watch,Electronics,3299,BookSphere,Mumbai,13196,UPI,Paid
+112,51,1,5,1,2025-08-21,Delivered,Meera Iyer,Malappuram,2025-04-04,+918811967841,Wireless Headphones,Electronics,2499,FitZone,Hyderabad,2499,Debit Card,Paid
+113,75,7,6,1,2025-12-12,Delivered,Ishaan Khan,Bengaluru,2025-09-11,+918472659626,Running Shoes,Sports,2299,StyleHub,Pune,2299,Cash on Delivery,Paid
+114,4,10,9,3,2025-11-09,Delivered,Meera Patel,Thrissur,2025-06-01,+917113971123,Backpack,Fashion,1299,DailyNeeds,Thrissur,3897,UPI,Paid
+115,82,14,8,3,2025-11-29,Shipped,Varun Menon,Malappuram,2025-03-16,+917179653598,Face Wash,Beauty,449,SmartBuy,Kozhikode,1347,UPI,Paid
+116,18,1,1,3,2025-09-10,Delivered,Varun Patel,Mumbai,2025-12-02,+917240251661,Wireless Headphones,Electronics,2499,TechWorld,Kochi,7497,UPI,Paid
+117,31,15,9,2,2025-07-18,Shipped,Ishaan Iyer,Delhi,2024-07-01,+917457031004,Moisturizer,Beauty,549,DailyNeeds,Thrissur,1098,Debit Card,Paid
+118,86,12,9,4,2025-10-28,Cancelled,Sneha Sharma,Mumbai,2024-07-02,+918768294570,Python Programming,Books,799,DailyNeeds,Thrissur,3196,Credit Card,Refunded
+119,54,11,2,4,2025-11-12,Shipped,Varun Sharma,Bengaluru,2024-04-05,+917714300770,Desk Lamp,Home,1099,UrbanCart,Bengaluru,4396,Debit Card,Paid
+120,5,12,6,2,2025-08-16,Shipped,Varun Patel,Delhi,2025-10-27,+918801823908,Python Programming,Books,799,StyleHub,Pune,1598,Credit Card,Paid
+121,47,2,6,3,2025-02-01,Shipped,Aditya Reddy,Bengaluru,2025-02-20,+917405126228,Bluetooth Speaker,Electronics,1799,StyleHub,Pune,5397,Debit Card,Paid
+122,25,2,8,1,2025-12-06,Delivered,Riya Sharma,Malappuram,2024-04-22,+919694860228,Bluetooth Speaker,Electronics,1799,SmartBuy,Kozhikode,1799,Net Banking,Paid
+123,3,1,6,2,2025-03-06,Processing,Priya Das,Kochi,2024-02-02,+917402418010,Wireless Headphones,Electronics,2499,StyleHub,Pune,4998,Credit Card,Paid
+124,9,14,9,2,2025-10-28,Delivered,Arjun Thomas,Thrissur,2024-12-18,+918136108454,Face Wash,Beauty,449,DailyNeeds,Thrissur,898,Credit Card,Paid
+125,43,13,3,1,2025-05-22,Delivered,Aditya Sharma,Kochi,2024-03-13,+917983297492,SQL Fundamentals,Books,699,HomeNest,Chennai,699,Credit Card,Paid
+126,70,5,3,1,2025-12-05,Delivered,Maya Khan,Mumbai,2024-05-15,+917295456419,Laptop Stand,Electronics,1499,HomeNest,Chennai,1499,Credit Card,Paid
+127,2,6,4,3,2025-01-09,Delivered,Ananya Nair,Delhi,2025-11-23,+917373399426,Cotton T-Shirt,Fashion,699,BookSphere,Mumbai,2097,Debit Card,Paid
+128,7,3,7,1,2025-02-02,Shipped,Rahul Das,Chennai,2024-12-14,+917667779376,Smart Watch,Electronics,3299,GlowMart,Delhi,3299,Cash on Delivery,Paid
+129,100,6,9,1,2025-08-20,Processing,Sneha Thomas,Chennai,2025-02-16,+919381183483,Cotton T-Shirt,Fashion,699,DailyNeeds,Thrissur,699,Credit Card,Paid
+130,79,1,9,3,2025-08-23,Cancelled,Ishaan Menon,Delhi,2025-03-28,+918836901321,Wireless Headphones,Electronics,2499,DailyNeeds,Thrissur,7497,UPI,Refunded
+131,8,8,7,4,2025-12-18,Delivered,Meera Thomas,Kozhikode,2024-04-14,+918631775357,Yoga Mat,Sports,999,GlowMart,Delhi,3996,Cash on Delivery,Paid
+132,92,15,8,1,2025-02-11,Delivered,Varun Thomas,Kozhikode,2024-01-29,+918121910732,Moisturizer,Beauty,549,SmartBuy,Kozhikode,549,Net Banking,Paid
+133,19,2,3,3,2025-11-16,Cancelled,Aditya Sharma,Hyderabad,2024-11-19,+918149938334,Bluetooth Speaker,Electronics,1799,HomeNest,Chennai,5397,Net Banking,Refunded
+134,71,12,6,4,2025-11-02,Processing,Aditya Thomas,Malappuram,2024-10-18,+918881988384,Python Programming,Books,799,StyleHub,Pune,3196,Debit Card,Paid
+135,59,9,10,4,2025-02-20,Cancelled,Meera Sharma,Delhi,2025-08-16,+917261810763,Water Bottle,Home,599,PrimeStore,Coimbatore,2396,UPI,Refunded
+136,84,11,9,2,2025-08-09,Shipped,Aditya Nair,Delhi,2024-12-28,+918745377599,Desk Lamp,Home,1099,DailyNeeds,Thrissur,2198,Credit Card,Paid
+137,53,6,8,4,2025-08-01,Cancelled,Rohan Iyer,Kochi,2024-04-10,+919800940984,Cotton T-Shirt,Fashion,699,SmartBuy,Kozhikode,2796,UPI,Refunded
+138,41,7,6,3,2025-07-11,Delivered,Arjun Patel,Kozhikode,2024-08-18,+918452066459,Running Shoes,Sports,2299,StyleHub,Pune,6897,Cash on Delivery,Paid
+139,9,2,2,1,2025-08-10,Delivered,Arjun Thomas,Thrissur,2024-12-18,+918136108454,Bluetooth Speaker,Electronics,1799,UrbanCart,Bengaluru,1799,Debit Card,Paid
+140,17,9,1,3,2025-12-10,Delivered,Aditya Menon,Hyderabad,2025-04-18,+918159417075,Water Bottle,Home,599,TechWorld,Kochi,1797,Cash on Delivery,Paid
+141,46,14,7,1,2025-05-28,Processing,Varun Menon,Thrissur,2025-08-07,+919030106617,Face Wash,Beauty,449,GlowMart,Delhi,449,Debit Card,Paid
+142,46,2,10,2,2025-03-21,Cancelled,Varun Menon,Thrissur,2025-08-07,+919030106617,Bluetooth Speaker,Electronics,1799,PrimeStore,Coimbatore,3598,Cash on Delivery,Refunded
+143,29,14,2,3,2025-10-12,Delivered,Varun Khan,Mumbai,2025-10-18,+917479112937,Face Wash,Beauty,449,UrbanCart,Bengaluru,1347,UPI,Paid
+144,98,5,10,2,2025-08-08,Processing,Sneha Nair,Mumbai,2025-11-11,+919676432103,Laptop Stand,Electronics,1499,PrimeStore,Coimbatore,2998,Net Banking,Paid
+145,79,11,9,1,2025-11-08,Cancelled,Ishaan Menon,Delhi,2025-03-28,+918836901321,Desk Lamp,Home,1099,DailyNeeds,Thrissur,1099,Debit Card,Refunded
+146,4,3,5,3,2025-06-23,Delivered,Meera Patel,Thrissur,2025-06-01,+917113971123,Smart Watch,Electronics,3299,FitZone,Hyderabad,9897,UPI,Paid
+147,24,14,3,4,2025-02-05,Delivered,Neha Patel,Delhi,2024-05-21,+919119634399,Face Wash,Beauty,449,HomeNest,Chennai,1796,UPI,Paid
+148,12,12,9,2,2025-07-12,Shipped,Priya Patel,Kozhikode,2025-12-22,+917196814233,Python Programming,Books,799,DailyNeeds,Thrissur,1598,Cash on Delivery,Paid
+149,44,3,6,3,2025-06-16,Processing,Riya Sharma,Kozhikode,2024-12-04,+919208283728,Smart Watch,Electronics,3299,StyleHub,Pune,9897,Net Banking,Paid
+150,11,15,1,2,2025-03-22,Processing,Riya Iyer,Thrissur,2024-10-27,+918553210608,Moisturizer,Beauty,549,TechWorld,Kochi,1098,UPI,Paid

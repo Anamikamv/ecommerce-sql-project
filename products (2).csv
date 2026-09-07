@@ -1,0 +1,16 @@
+product_id,product_name,category,price
+1,Wireless Headphones,Electronics,2499
+2,Bluetooth Speaker,Electronics,1799
+3,Smart Watch,Electronics,3299
+4,USB-C Charger,Electronics,899
+5,Laptop Stand,Electronics,1499
+6,Cotton T-Shirt,Fashion,699
+7,Running Shoes,Sports,2299
+8,Yoga Mat,Sports,999
+9,Water Bottle,Home,599
+10,Backpack,Fashion,1299
+11,Desk Lamp,Home,1099
+12,Python Programming,Books,799
+13,SQL Fundamentals,Books,699
+14,Face Wash,Beauty,449
+15,Moisturizer,Beauty,549
